@@ -1,4 +1,4 @@
-# Traffic_Analysis
+accident-severity-analysis-powerbi
 🚦 US Traffic Accident Severity Analysis Dashboard
 50K data rows out of millions to work upon
 
